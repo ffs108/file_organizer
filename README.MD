@@ -1,0 +1,1 @@
+Quick script to reorganize personal download folder, though that can be changed by modifying the raw string. If choosing to be kept in a C:\ it will pull files into different folder categories (based on file extension) in the parent of download (so C:\). If in the D:\ it will create the same folders (if non existant) in the base of D:\.
